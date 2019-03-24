@@ -8,7 +8,7 @@
 *.sln.docstates
 
 # Config files
-ProjectTalentOnboarding/Connections.config
+/ProjectTalentOnboarding/Connections.config
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)

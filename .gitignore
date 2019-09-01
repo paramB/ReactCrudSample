@@ -4,6 +4,7 @@
 # ignore web.config
 /ReactCrudSample/ReactCrudSample/web.config
 
+
 # User-specific files
 *.suo
 *.user

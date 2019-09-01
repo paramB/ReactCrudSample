@@ -7,10 +7,6 @@
 *.userosscache
 *.sln.docstates
 
-# Config files
-/ProjectTalentOnboarding/Connections.config
-
-
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
